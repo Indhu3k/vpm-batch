@@ -1,0 +1,10 @@
+<?php
+table1;
+$name->char('name');
+$age->integer('age');
+$place->string('place');
+$education->string('education');
+
+insert into("$name","$age","$place","$education")values("sarath","28","vpm","BE");
+
+?>
